@@ -1,9 +1,7 @@
 package com.example.clase6_classwork.entity;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import jakarta.persistence.*;
+
 
 @Entity
 @Table(name = "jobs")

@@ -1,6 +1,6 @@
 package com.example.clase6_classwork.entity;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 
 @Entity

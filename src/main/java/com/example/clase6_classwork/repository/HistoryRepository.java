@@ -1,6 +1,6 @@
 package com.example.clase6_classwork.repository;
 
-import com.example.laboratorio4.entity.History;
+import com.example.clase6_classwork.entity.History;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
